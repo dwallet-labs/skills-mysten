@@ -1,0 +1,1004 @@
+[
+  {
+    "skill": "zklogin",
+    "eval_id": "zklogin-protocol-flow",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "zklogin",
+    "eval_id": "zklogin-address-derivation",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "zklogin",
+    "eval_id": "zklogin-jwt-and-salt-leak",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "zklogin",
+    "eval_id": "zklogin-providers-and-integration",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-deploy-react-app",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-epochs-too-low",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-spa-routing",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-update-vs-publish",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-how-to-update",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "publishing",
+    "eval_id": "publishing-debug-expired",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "portal",
+    "eval_id": "portal-setup-testnet",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "portal",
+    "eval_id": "portal-original-package-id",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "portal",
+    "eval_id": "portal-404-troubleshooting",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "portal",
+    "eval_id": "portal-port-conflict",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "portal",
+    "eval_id": "portal-wal-app-testnet",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-ts-sdk-backend",
+    "eval_id": "sui-ts-sdk-backend-client-setup",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-ts-sdk-backend",
+    "eval_id": "sui-ts-sdk-backend-send-sign-and-execute",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-ts-sdk-backend",
+    "eval_id": "sui-ts-sdk-backend-sponsored-transactions",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-ts-sdk-backend",
+    "eval_id": "sui-ts-sdk-backend-high-throughput-airdrop",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-ts-sdk-backend",
+    "eval_id": "sui-ts-sdk-backend-key-custody",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-choose-sdk",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-ts-client-choice",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-bundled-llm-docs",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-rust-ptb-minimal",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-v1-to-v2-migration",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-cross-sdk-port",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-community-caveat",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-sdks",
+    "eval_id": "sui-sdks-frontend-boundary",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-first-publish",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-fresh-copy-to-devnet",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-upgrade-contract",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-debug-failing-dry-run",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-local-network",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-find-package-and-created-objects",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-publish",
+    "eval_id": "sui-publish-serialize-for-multisig",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-overview",
+    "eval_id": "sui-overview-object-model",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-overview",
+    "eval_id": "sui-overview-parallel-execution-mysticeti",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-overview",
+    "eval_id": "sui-overview-vs-ethereum-accounts",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-overview",
+    "eval_id": "sui-overview-sui-stack-components",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-overview",
+    "eval_id": "sui-overview-hidden-artwork-nft",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-networks-gas",
+    "eval_id": "sui-networks-gas-cost-and-storage-rebate",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-networks-gas",
+    "eval_id": "sui-networks-gas-epoch-length-and-boundary",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-dependency-env-note",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-upgrade-without-published-id",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-edition-feature-unsupported",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-move-toml-format",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-legacy-system-name",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-amm",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-nft-game",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-coin",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-counter",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move-project",
+    "eval_id": "sui-move-project-lending-protocol",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-abilities",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-package-upgrade-and-upgradecap",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-init-and-one-time-witness",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-epoch-from-txcontext",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-events",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-create-currency",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-move",
+    "eval_id": "sui-move-destroy-without-drop",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-install",
+    "eval_id": "sui-install-install",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-install",
+    "eval_id": "sui-install-version-behind-after-suiup",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-install",
+    "eval_id": "sui-install-update-not-taking-effect",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-install",
+    "eval_id": "sui-install-api-version-mismatch",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-install",
+    "eval_id": "sui-install-move-analyzer-not-found",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-for-ethereum",
+    "eval_id": "sui-for-ethereum-access-control-vs-ownable",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-for-ethereum",
+    "eval_id": "sui-for-ethereum-token-standards-mapping",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-for-ethereum",
+    "eval_id": "sui-for-ethereum-inheritance-and-generics",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-for-ethereum",
+    "eval_id": "sui-for-ethereum-composability",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-client",
+    "eval_id": "sui-client-faucet",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-client",
+    "eval_id": "sui-client-create-and-fund-wallet",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-client",
+    "eval_id": "sui-client-no-gas-coin-error",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-client",
+    "eval_id": "sui-client-merge-coins-and-transfer",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-build-test",
+    "eval_id": "sui-build-test-write-and-run-tests",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-build-test",
+    "eval_id": "sui-build-test-move-analyzer-setup",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-bridge",
+    "eval_id": "sui-bridge-assets-and-limits",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-bridge",
+    "eval_id": "sui-bridge-governance-and-finality",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "sui-bridge",
+    "eval_id": "sui-bridge-contract-ids",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-basic-transfer",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-batch-airdrop",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-chained-move-calls",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-sponsored-transaction-flow",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-gas-coin-misuse",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-unused-value-error",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "ptbs",
+    "eval_id": "ptbs-shared-object-rules",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "onchain-randomness",
+    "eval_id": "onchain-randomness-basic-random-number",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "onchain-randomness",
+    "eval_id": "onchain-randomness-public-function-rejected",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "onchain-randomness",
+    "eval_id": "onchain-randomness-random-rarity-airdrop",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "onchain-randomness",
+    "eval_id": "onchain-randomness-attack-vectors",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-basics",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-ownership-types",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-share-object-and-frontend-access",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-abilities",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-dynamic-fields-vs-object-fields",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-heterogeneous-inventory",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-table-vs-vecmap-vs-bag",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-destroy-object",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-hot-potato",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-transfer-vs-public-transfer",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-transfer-to-object",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-soulbound",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-capability-pattern",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-lend-cap-temporarily",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-versioning",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-wrapped-objects",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-parallel-execution",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-derived-objects",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-display",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "object-model",
+    "eval_id": "object-model-vote-registry-collection",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "naming-conventions",
+    "eval_id": "naming-amm",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "naming-conventions",
+    "eval_id": "naming-nft-game",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "naming-conventions",
+    "eval_id": "naming-access-control",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "move-unit-testing",
+    "eval_id": "amm-unit-tests",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "move-security",
+    "eval_id": "security-review-shared-object",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "move-security",
+    "eval_id": "access-control-pattern-choice",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "move-security",
+    "eval_id": "capability-safety-and-revocation",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "move-security",
+    "eval_id": "randomness-security-review",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "modern-move-syntax",
+    "eval_id": "syntax-amm",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "modern-move-syntax",
+    "eval_id": "syntax-nft-game",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "modern-move-syntax",
+    "eval_id": "syntax-access-control",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "kiosk",
+    "eval_id": "kiosk-create-list-and-purchase",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "kiosk",
+    "eval_id": "kiosk-asset-states",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "kiosk",
+    "eval_id": "kiosk-permissioned-extension",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "kiosk",
+    "eval_id": "kiosk-borrow-nft-in-ptb",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-react-setup",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-transaction-flow",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-owned-nfts-paginated",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-deprecated-package-check",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-sponsored-sign-only",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-vue-setup",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-avoid-bad-pattern",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "frontend-apps",
+    "eval_id": "frontend-apps-ssr-nextjs",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-sdk",
+    "eval_id": "deepbook-sdk-client-and-balance-manager",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-sdk",
+    "eval_id": "deepbook-sdk-limit-order-types",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-sdk",
+    "eval_id": "deepbook-sdk-swap-without-balance-manager",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-sdk",
+    "eval_id": "deepbook-sdk-query-and-cancel-orders",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-sdk",
+    "eval_id": "deepbook-sdk-silent-order-failures",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-predict",
+    "eval_id": "deepbook-predict-position-types",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-predict",
+    "eval_id": "deepbook-predict-mint-binary-position",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-predict",
+    "eval_id": "deepbook-predict-oracle-states-and-settlement",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-predict",
+    "eval_id": "deepbook-predict-vault-and-plp",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-predict",
+    "eval_id": "deepbook-predict-integration-mistakes",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-overview",
+    "eval_id": "deepbook-overview-vs-amm",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-overview",
+    "eval_id": "deepbook-overview-pool-architecture",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-overview",
+    "eval_id": "deepbook-overview-integration-models",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-overview",
+    "eval_id": "deepbook-overview-deep-token-role",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-overview",
+    "eval_id": "deepbook-overview-mainnet-ids",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-move",
+    "eval_id": "deepbook-move-dependency-and-limit-order",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-move",
+    "eval_id": "deepbook-move-flash-loans",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-move",
+    "eval_id": "deepbook-move-balance-manager-and-tradecap",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-move",
+    "eval_id": "deepbook-move-swap-without-balance-manager",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-move",
+    "eval_id": "deepbook-move-integration-mistakes",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-margin",
+    "eval_id": "deepbook-margin-risk-ratio-thresholds",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-margin",
+    "eval_id": "deepbook-margin-kinked-interest-rates",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-margin",
+    "eval_id": "deepbook-margin-open-leveraged-long",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-margin",
+    "eval_id": "deepbook-margin-spot-vs-margin",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "deepbook-margin",
+    "eval_id": "deepbook-margin-risks-and-mitigations",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "composable-move-functions",
+    "eval_id": "composable-amm",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "composable-move-functions",
+    "eval_id": "composable-nft-game",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "composable-move-functions",
+    "eval_id": "composable-coin",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-no-json-rpc",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-use-case-mapping",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-custom-indexer-gate",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-walrus-blob",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-migrate-json-rpc",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-archival-historical",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-streaming-events",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  },
+  {
+    "skill": "accessing-data",
+    "eval_id": "accessing-data-storage-fund-clarification",
+    "status": "ERROR",
+    "error": "Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the \"X-Api-Key\" or \"Authorization\" headers to be explicitly omitted"
+  }
+]
